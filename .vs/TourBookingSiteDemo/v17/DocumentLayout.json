@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jadej\\OneDrive\\Desktop\\TourBookingSiteDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{095B6E93-E32E-49DD-A2D6-772F1DC63BF2}|TourBookingSiteDemo\\TourBookingSiteDemo.csproj|C:\\Users\\jadej\\OneDrive\\Desktop\\TourBookingSiteDemo\\tourbookingsitedemo\\tour.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{095B6E93-E32E-49DD-A2D6-772F1DC63BF2}|TourBookingSiteDemo\\TourBookingSiteDemo.csproj|solutionrelative:tourbookingsitedemo\\tour.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095B6E93-E32E-49DD-A2D6-772F1DC63BF2}|TourBookingSiteDemo\\TourBookingSiteDemo.csproj|c:\\users\\jadej\\onedrive\\desktop\\tourbookingsitedemo\\tourbookingsitedemo\\mysqldataadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095B6E93-E32E-49DD-A2D6-772F1DC63BF2}|TourBookingSiteDemo\\TourBookingSiteDemo.csproj|solutionrelative:tourbookingsitedemo\\mysqldataadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095B6E93-E32E-49DD-A2D6-772F1DC63BF2}|TourBookingSiteDemo\\TourBookingSiteDemo.csproj|C:\\Users\\jadej\\OneDrive\\Desktop\\TourBookingSiteDemo\\tourbookingsitedemo\\dbclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095B6E93-E32E-49DD-A2D6-772F1DC63BF2}|TourBookingSiteDemo\\TourBookingSiteDemo.csproj|solutionrelative:tourbookingsitedemo\\dbclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095B6E93-E32E-49DD-A2D6-772F1DC63BF2}|TourBookingSiteDemo\\TourBookingSiteDemo.csproj|C:\\Users\\jadej\\OneDrive\\Desktop\\TourBookingSiteDemo\\tourbookingsitedemo\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{095B6E93-E32E-49DD-A2D6-772F1DC63BF2}|TourBookingSiteDemo\\TourBookingSiteDemo.csproj|solutionrelative:tourbookingsitedemo\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095B6E93-E32E-49DD-A2D6-772F1DC63BF2}|TourBookingSiteDemo\\TourBookingSiteDemo.csproj|C:\\Users\\jadej\\OneDrive\\Desktop\\TourBookingSiteDemo\\tourbookingsitedemo\\aboutus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{095B6E93-E32E-49DD-A2D6-772F1DC63BF2}|TourBookingSiteDemo\\TourBookingSiteDemo.csproj|solutionrelative:tourbookingsitedemo\\aboutus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\jadej\\OneDrive\\Desktop\\TourBookingSiteDemo\\TourBookingSiteDemo\\Login.aspx",
+              "RelativeDocumentMoniker": "TourBookingSiteDemo\\Login.aspx",
+              "ToolTip": "C:\\Users\\jadej\\OneDrive\\Desktop\\TourBookingSiteDemo\\TourBookingSiteDemo\\Login.aspx",
+              "RelativeToolTip": "TourBookingSiteDemo\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-10T02:33:49.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MySqlDataAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\jadej\\OneDrive\\Desktop\\TourBookingSiteDemo\\TourBookingSiteDemo\\MySqlDataAdapter.cs",
+              "RelativeDocumentMoniker": "TourBookingSiteDemo\\MySqlDataAdapter.cs",
+              "ToolTip": "C:\\Users\\jadej\\OneDrive\\Desktop\\TourBookingSiteDemo\\TourBookingSiteDemo\\MySqlDataAdapter.cs",
+              "RelativeToolTip": "TourBookingSiteDemo\\MySqlDataAdapter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T13:02:09.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tour.Master",
+              "DocumentMoniker": "C:\\Users\\jadej\\OneDrive\\Desktop\\TourBookingSiteDemo\\TourBookingSiteDemo\\Tour.Master",
+              "RelativeDocumentMoniker": "TourBookingSiteDemo\\Tour.Master",
+              "ToolTip": "C:\\Users\\jadej\\OneDrive\\Desktop\\TourBookingSiteDemo\\TourBookingSiteDemo\\Tour.Master",
+              "RelativeToolTip": "TourBookingSiteDemo\\Tour.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T02:59:14.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBClass.cs",
+              "DocumentMoniker": "C:\\Users\\jadej\\OneDrive\\Desktop\\TourBookingSiteDemo\\TourBookingSiteDemo\\DBclass.cs",
+              "RelativeDocumentMoniker": "TourBookingSiteDemo\\DBclass.cs",
+              "ToolTip": "C:\\Users\\jadej\\OneDrive\\Desktop\\TourBookingSiteDemo\\TourBookingSiteDemo\\DBclass.cs",
+              "RelativeToolTip": "TourBookingSiteDemo\\DBclass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T02:59:59.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AboutUs.aspx",
+              "DocumentMoniker": "C:\\Users\\jadej\\OneDrive\\Desktop\\TourBookingSiteDemo\\TourBookingSiteDemo\\AboutUs.aspx",
+              "RelativeDocumentMoniker": "TourBookingSiteDemo\\AboutUs.aspx",
+              "ToolTip": "C:\\Users\\jadej\\OneDrive\\Desktop\\TourBookingSiteDemo\\TourBookingSiteDemo\\AboutUs.aspx",
+              "RelativeToolTip": "TourBookingSiteDemo\\AboutUs.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T02:59:08.695Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

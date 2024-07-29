@@ -1,0 +1,94 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Tour.master.cs" Inherits="TourBookingSiteDemo.Tour" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+<title>Master Page</title>
+<asp:ContentPlaceHolder ID="head" runat="server">
+    <link href="StyleSheet1.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="css/bootstrap.css" rel="stylesheet" />
+    <link href="css/font-awesome.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css" />
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js" integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.min.js" integrity="sha384-mQ93GR66B00ZXjt0YO5KlohRA5SY2XofN4zfuZxLkoj1gXtW8ANNCe9d5Y3eG5eD" crossorigin="anonymous"></script>
+</asp:ContentPlaceHolder>
+</head>
+<body background="images/Bimage.jpg">
+
+<form id="form1" runat="server">
+<div>
+<nav class="navbar navbar-expand-lg fixed-top navbar-dark bg-dark">
+<div class="container-fluid col-lg-12">
+
+<a class="navbar-brand  " href="#"><i>Tour Trip&nbsp;<i style="color:white;" class="fa fa-plane fa-lg" aria-hidden="true"></i>
+</i></a>
+
+  
+
+
+  
+</i></a>
+
+  
+
+
+  
+</i></a>
+
+  
+
+
+  
+
+<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+<span class="navbar-toggler-icon"></span>
+</button>
+<div class="collapse navbar-collapse" id="navbarSupportedContent">
+<ul class="navbar-nav me-auto mb-2 mb-lg-0">
+<li class="nav-item">
+<asp:LinkButton ID="Home" runat="server" class="nav-link " CausesValidation="False" 
+        onclick="Home_Click"><b>Home</b></asp:LinkButton>
+</li>     
+<li class="nav-item">
+<asp:LinkButton ID="Aboutus" runat="server" class="nav-link " 
+        CausesValidation="False" onclick="Aboutus_Click" ><b>AboutUs</b></asp:LinkButton>
+</li>
+<li class="nav-item">
+<asp:LinkButton ID="Contactus" runat="server" class="nav-link " 
+        CausesValidation="False" onclick="Contactus_Click" ><b>ContactUs</b></asp:LinkButton>
+</li>
+</ul>
+</div>
+
+           
+<asp:Button ID="btnlogin" runat="server" Text="Login" 
+        class="btn btn-outline-primary" type="submit" CausesValidation="False" 
+        UseSubmitBehavior="False" onclick="btnlogin_Click" />
+<asp:Button ID="btnregister" runat="server" Text="Register" 
+        class="btn btn-outline-secondary" type="submit"  CausesValidation="False" 
+        UseSubmitBehavior="False" ValidateRequestMode="Disabled" 
+        onclick="btnregister_Click" />
+<asp:Button ID="admin_login" runat="server" Text="Admin Login" 
+        class="btn btn-outline-success" CausesValidation="False" 
+        onclick="admin_login_Click" />
+<asp:Button ID="Button1" runat="server" Text="Cart" class="btn btn-outline-danger" 
+        CausesValidation="False" UseSubmitBehavior="False" onclick="Button1_Click" />
+<asp:Button ID="btnlogout" runat="server" Text="Logout" 
+        class="btn btn-outline-warning" type="submit"  CausesValidation="False" 
+        UseSubmitBehavior="False" ValidateRequestMode="Disabled" 
+        onclick="btnlogout_Click"  />
+
+</div>
+</nav>
+<asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+</asp:ContentPlaceHolder>
+</div>
+<footer id="footer1" align="center">
+           
+&copy; All Right Reserved By Tours And Travellers <i style="color:black;" class="fa fa-plane fa-lg" aria-hidden="true"> </i><br /><br />
+</footer>
+</form>
+</body>
+</html>
